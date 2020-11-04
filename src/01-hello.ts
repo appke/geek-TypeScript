@@ -4,4 +4,8 @@ function sayHai(name: string):void {
 
 let myName: string = "Liang muk"
 
+let name2: string = "12"
+// name2 = true
+
+
 sayHai(myName)
